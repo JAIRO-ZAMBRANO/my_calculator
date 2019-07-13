@@ -17,7 +17,7 @@ function fourth() {
 </script>
 </head>
 <body>
- <h1>Calculadora de Jesus y Alarcon</h1>
+ <h1>Calculadora de Jairo Zambrano</h1>
  Number:
  <input type="text" id="n1">
  <p>
