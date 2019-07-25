@@ -23,7 +23,7 @@ function fourth() {
  <p>
  <button onclick="cube()"> x^3 </button>
  <button onclick="sin()"> sin(x) </button>
- <button onclick="fourth()"> x^4 </button>
+ <button onclick="fourth()"> x^4 </MULTIPLICACION>
  </p>
 </body>
 </html>
