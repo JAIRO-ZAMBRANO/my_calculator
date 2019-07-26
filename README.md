@@ -18,12 +18,12 @@ function fourth() {
 </head>
 <body>
  <h1>Calculadora de Jairo Zambrano</h1>
- Number:
+ Number:CALCULADORA
  <input type="text" id="n1">
  <p>
  <button onclick="cube()"> x^3 </button>
  <button onclick="sin()"> sin(x) </button>
- <button onclick="fourth()"> x^4 </MULTIPLICACION>
+ <button onclick="fourth()"> x^4 </button>
  </p>
 </body>
 </html>
